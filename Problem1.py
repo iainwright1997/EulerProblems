@@ -1,3 +1,4 @@
+# FIND THE SUM OF ALL MULTIPLES OF 3 AND 5 BELOW 100
 x = 1
 total = 0
 while(x <= 999):
