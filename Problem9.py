@@ -1,3 +1,4 @@
+# FIND THE PYTHAGOREAN TRIPLE WHERE THE SUM OF ALL SIDES IS 1,000
 from math import *
 
 for a in range(1, 500):
