@@ -1,3 +1,4 @@
+# FIND THE LARGEST PALINDROME THAT IS A PRODUCT OF TWO THREE-DIGIT NUMBERS
 big_palindrome = 0
 for a in range(100, 999):
     for b in range(100, 999):
